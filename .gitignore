@@ -1,0 +1,18 @@
+# Dependencies
+frontend/node_modules/
+
+# Uploaded videos
+backend/uploads/
+
+# Environment variables (contain secrets)
+backend/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# macOS
+.DS_Store
